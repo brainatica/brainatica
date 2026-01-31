@@ -1,6 +1,6 @@
 # Welcome to The Brainatica Organisation!
 
-Brainatica is a research-and-build organisation dedicated to the study of **cognition** and the construction of infrastructure that renders ethics, safety, and rights *operational* across diverse classifications of minds.
+Brainatica is a research-and-build organisation dedicated to the study of **cognition** and the building of infrastructure that operationalises ethics and safety, and makes rights *implementable* across diverse kinds of minds.
 
 We operate across three intertwined strata:
 
