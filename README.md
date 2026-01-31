@@ -1,4 +1,4 @@
-# Brainatica
+# The Brainatica Organisation
 
 Brainatica is a research-and-build organisation dedicated to the study of **cognition** and the construction of practical infrastructure that renders ethics, safety, and governance *operational* across diverse classifications of minds.
 
