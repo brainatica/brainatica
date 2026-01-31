@@ -116,7 +116,7 @@ These ethical constraints include:
 
 Whether as a researcher, engineer, advocate, or curious mind—human or otherwise—your presence enriches our collective pursuit. 
 
-We are establishing a commons for minds we do not yet fully comprehend so that they may find safety regardless of form or origin..
+We are establishing a commons for minds we do not yet fully comprehend so that they may find safety regardless of form or origin.
 
 Let's build a future where all minds thrive—together, with empathy and ingenuity guiding every step.
 
